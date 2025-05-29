@@ -1,3 +1,0 @@
-/home/sasho_b/Coding/game_engine/example_project/build/CMakeFiles/main.dir
-/home/sasho_b/Coding/game_engine/example_project/build/CMakeFiles/edit_cache.dir
-/home/sasho_b/Coding/game_engine/example_project/build/CMakeFiles/rebuild_cache.dir
